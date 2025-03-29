@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(221, 119, 2);
+    color: aqua;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    font-size: 80px;
+}
+h2{
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+}
+p{
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+}
+h3{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
